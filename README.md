@@ -1,6 +1,8 @@
 # 🔮 Müşteri Kaybı Tahmin API
 
-[`musteri-kaybi-tahmini`](../musteri-kaybi-tahmini) projesinde eğitilen makine öğrenmesi modelini **FastAPI** ile canlı bir servise çeviren proje. Bir müşterinin bilgilerini gönderirsin, aboneliği bırakma olasılığını ve risk seviyesini alırsın.
+[![Testler](https://github.com/sumeyyeealtintas/churn-tahmin-api/actions/workflows/test.yml/badge.svg)](https://github.com/sumeyyeealtintas/churn-tahmin-api/actions/workflows/test.yml)
+
+[`musteri-kaybi-tahmini`](https://github.com/sumeyyeealtintas/musteri-kaybi-tahmini) projesinde eğitilen makine öğrenmesi modelini **FastAPI** ile canlı bir servise çeviren proje. Bir müşterinin bilgilerini gönderirsin, aboneliği bırakma olasılığını ve risk seviyesini alırsın.
 
 > Model bir Jupyter dosyasında kalırsa kimse kullanamaz. Bu proje, modelin **uygulamaya nasıl taşındığını** (deployment) gösterir.
 
